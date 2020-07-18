@@ -1,0 +1,30 @@
+What is your understanding of Blockchain?
+
+        A blockchain, originally block chain, is a growing list of records, which is present in blocks, that are linked using cryptography. It is an open distributed ledger that can record transactions between two parties efficiently and in a verifiable and in permanent way also.
+
+What is the core problem Blockchain trying to solve?
+
+        Hacking 
+        security
+        verifiable
+        Data transparency
+        Decentralized
+
+what was the few features which Blockchain will give you?
+         
+		Authencity
+        Security
+        To avoid third party
+
+What all things does a Block contain?
+
+        Block Number
+		Transaction records
+		Previous Block Signature
+		Mining Key
+		
+How is the verifiability of blockchain has been attained?
+
+        Every list of blocks in different server having same type of data or not will be 
+checked through Verifiability
+
